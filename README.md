@@ -79,9 +79,10 @@ A comprehensive data analysis project built with Python, Pandas, Matplotlib, and
 ## 📷 Visuals
 
 <p align="center">
-  <img src="assets/sample-line-plot.png" width="400" />
-  <img src="assets/sample-pie-chart.png" width="400" />
-  <img src="assets/sample-bar-plot.png" width="400" />
+  <img src="assets/top_tracks.png" width="400" />
+  <img src="assets/top_artists.png" width="400" />
+  <img src="assets/spotify_popularity.png" width="400" />
+  <img src="assets/platform_streams.png" width="400" />
 </p>
 
 ---
