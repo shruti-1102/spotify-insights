@@ -2,6 +2,8 @@
 
 A comprehensive data analysis project built with Python, Pandas, Matplotlib, and Seaborn — exploring the most streamed songs on Spotify in 2024.
 
+Tableau Dashboard[https://public.tableau.com/views/spotify_insights_17538351098930/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+
 ---
 
 ## 📂 Dataset
